@@ -48,7 +48,7 @@ nav ul li a {
 /* hero image */
 .hero {
     position: relative;
-    background: url('../hero-image.webp') center center no-repeat;
+    background: url('../images/hero-image.webp') center center no-repeat;
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -68,11 +68,11 @@ nav ul li a {
 /* styles.css */
 
 .box {
-    width: 250px; /* Adjust the width as needed */
-    border: 2px solid yellow; /* Border with color */
-    padding: 20px 40px; /* Padding inside the box */
-    text-align: center; /* Center text horizontally */
-    margin: 20px auto; /* Center the box horizontally and provide top margin */
+    width: 250px; 
+    border: 2px solid yellow;
+    padding: 20px 40px; 
+    text-align: center; 
+    margin: 20px auto; 
     border-radius: 12px;
     
 }
@@ -92,7 +92,7 @@ nav ul li a {
 /* about.html */
 .about {
     position: relative;
-    background: url('../Images/about-html.webp');
+    background: url('../images/contact-html.webp')center center no-repeat;
     background-size: cover;
     height: 100vh; 
 }
@@ -100,7 +100,7 @@ nav ul li a {
 /* contact.html */
 .contact {
     position: relative;
-    background: url('../Images/contact-html.webp');
+    background: url('../images/contact-html.webp')center center no-repeat;
     background-size: cover;
     height: 70vh; 
 }
@@ -124,8 +124,8 @@ p{ color:white}
         border: 4px double #cccccc;
         border-radius: 5px;
         font-size: 15px;
-        cursor: pointer; /* add this line */
-        margin: 5px; /* add this line */
+        cursor: pointer; 
+        margin: 5px; 
       }
       .center-form{
         justify-content: center;
@@ -164,10 +164,7 @@ p{ color:white}
 .bg-body-tertiary {
     background-color: transparent !important;
 }
-.gym-body {
-    /* display: flex; */
-    /* justify-content: space-between; */
-}
+
 .logo {
     color: #fff;
     font-size: 28px !important;
@@ -242,7 +239,7 @@ p{ color:white}
     color: #000;
 }
 .form-section {
-    max-width: 500px;
+    max-width: 80%;
     margin: 75px auto 20px;
     background-color: white;
     padding: 25px;
@@ -291,10 +288,7 @@ p{ color:white}
     justify-content: center;
     align-items: center;
 }
-.contact-footer {
-    position: absolute;
-    bottom: 0;
-}
+
 .btn-yellow :hover {
     color: yellow !important;
     border: 1px solid yellow !important;
@@ -307,4 +301,9 @@ p{ color:white}
 }
 .about-header {
     padding-top: 25px;
+}
+.container.about-section {
+    display: flex;
+    flex-direction: column;
+
 }
