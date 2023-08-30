@@ -78,7 +78,7 @@ The visitor draw of a hero image which situates them shoulder-to-shoulder with a
 
 - #### Mobile Home Page Wireframe
 
-![Mobile Home Page Wireframe](./mater-foundation/wireframes/mobile-homepage.jpg)
+![Mobile Home Page Wireframe](./energiefitness/wireframes/mobile-homepage.jpg)
 
 - #### Tablet Home Page Wireframe
 
