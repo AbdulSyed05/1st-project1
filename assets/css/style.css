@@ -100,7 +100,7 @@ nav ul li a {
 /* contact.html */
 .contact {
     position: relative;
-    background: url('../contact-html.webp')center center no-repeat;
+    background: url('../assets/Images/contact-html.webp')center center no-repeat;
     background-size: cover;
     height: 70vh; 
 }
