@@ -48,7 +48,7 @@ nav ul li a {
 /* hero image */
 .hero {
     position: relative;
-    background: url('../images/hero-image.webp') center center no-repeat;
+    background: url('../Images/hero-image.webp') center center no-repeat;
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -92,7 +92,7 @@ nav ul li a {
 /* about.html */
 .about {
     position: relative;
-    background: url('../images/contact-html.webp')center center no-repeat;
+    background: url('../Images/about-html.webp')center center no-repeat;
     background-size: cover;
     height: 100vh; 
 }
@@ -100,7 +100,7 @@ nav ul li a {
 /* contact.html */
 .contact {
     position: relative;
-    background: url('../images/contact-html.webp')center center no-repeat;
+    background: url('../Images/contact-html.webp')center center no-repeat;
     background-size: cover;
     height: 70vh; 
 }
