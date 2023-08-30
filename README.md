@@ -1,4 +1,4 @@
-![Energy Fitness](https://ui.dev/amiresponsive?url=https://abdulsyed05.github.io/1st-project1/)
+
 
 Welcome,
 
