@@ -103,9 +103,7 @@ The visitor draw of a hero image which situates them shoulder-to-shoulder with a
 - Responsive on all devices, so users get the best, tailored experience for the specific way they access the website.
 - Clearly interactive pages so that users know what actions to take, and how to take them, at every point 
 
-### Button Styled Links
 
-- Page links like Read More and Volunteer are styled as big buttons so users clearly see them, and can easily tap them on mobile devices, to go to the appropriate page.
 
 ### External Links
 
@@ -154,7 +152,7 @@ The developer used W3C HTML validation and W3C CSS validation to help debug, and
 * Lighthouse from the Google Chrome Developer Tools provided an analysis of the website's performance.
     * This analysis was key in fixing a development issue around the use of pngs over jpgs for many images, detailed in bugs.
 
-    * ![Screenshot of full performance report from Google Chrome Developer Tool Lighthouse.](./mater-foundation/assets/images/lighthouse-report.jpg)   
+    * ![Screenshot of full performance report from Google Chrome Developer Tool Lighthouse.](readme-images/lighthouse.png)   
 
 
 
