@@ -56,7 +56,10 @@ The Gym Website project is a responsive and user-friendly website designed for a
 The major design inspiration for this Gym website is from [Energie Fitness Franchise](https://energiefitness.com/)
 This website is the starting point of a rebuild of that website, which is hosted by an overseas 3rd party on WordPress.
 
+![Energie Fitness Original Home Page]
 
+The other website that was truly inspirational from amongst a huge group that I reviewed was [the RNLI website - December 2020 View](http://web.archive.org/web/20201220014805/https://rnli.org/)
+The visitor draw of a hero image which situates them shoulder-to-shoulder with a frontline worker really impressed me.
 
 
 #### Colour Scheme
@@ -148,10 +151,7 @@ The developer used W3C HTML validation and W3C CSS validation to help debug, and
 
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 7177a4b716785c6625448e129a0504abc7396251
 
 ### Bugs Discovered & Resolved
 
@@ -161,7 +161,6 @@ The developer used W3C HTML validation and W3C CSS validation to help debug, and
 
 This project was developed using GitPod, committed to Git and pushed to GitHub using the built-in function within GitPod
 
-<<<<<<< HEAD
 ### Deploy this project from its GitHub repository
 
 To deploy this project to GitHub Pages from its [GitHub repository](https://github.com/DaithiShan/milestoneproject1), the following steps were taken:
@@ -178,9 +177,3 @@ To deploy this project to GitHub Pages from its [GitHub repository](https://gith
 
     * I owe my mentor Precious Ijege a lot of credit for great mentoring, and the discovery of the responsive view Chrome plugin, and cooolor.com for color palettes.
     * I owe the Slack community a great deal of credit also for their responsiveness and willingness to always help with small problems!
-=======
-#### Acknowledgements
-
-    * I owe my mentor Precious Ijege a lot of credit for great mentoring, and the discovery of the responsive view Chrome plugin, and cooolor.com for color palettes.
-    * I owe the Slack community a great deal of credit also for their responsiveness and willingness to always help with small problems!
->>>>>>> 7177a4b716785c6625448e129a0504abc7396251
