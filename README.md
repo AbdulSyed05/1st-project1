@@ -14,6 +14,9 @@ The Gym Website project is a responsive and user-friendly website designed for a
 
 2. To ensure that returning, former gym membeers and existing gym members feel sure that their support has made or is making a difference.
 
+![Energy Fitness](readme-images/ui-responsive.png)
+
+
 ## User Experience (UX)
 
 -  #### First Time Visitor / Potential Volunteer Goals
@@ -79,15 +82,19 @@ The visitor draw of a hero image which situates them shoulder-to-shoulder with a
 - #### Mobile Home Page Wireframe
 
 ![Mobile Home Page Wireframe]
+![Energy Fitness](readme-images/wireframe-mobile.png)
+
+
 
 
 - #### Tablet Home Page Wireframe
 
-![Tablet Home Page Wireframe](./mater-foundation/wireframes/tablet-homepage.jpg)
+![Tablet Home Page Wireframe]
+![Energy Fitness](readme-images/wireframe-tablet.png)
 
 - #### Desktop Home Page Wireframe
-![Desktop Home Page Wireframe](./mater-foundation/wireframes/desktop-homepage.jpg)
 
+![Energy Fitness](readme-images/desktop.png)
 
 ## Features
 
