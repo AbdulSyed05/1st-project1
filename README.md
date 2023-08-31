@@ -141,7 +141,7 @@ The visitor draw of a hero image which situates them shoulder-to-shoulder with a
 
 * jQUery ; used for the mobile version of the navbar, and for the newsletter sign-up modal
 
-* Google Fonts; used to import 'Fire Sans' for the title font and 'Roboto' for the body font
+* Google Fonts; used and and 'Arial' for the body font
 
 * Git; used for version control by utilizing the Gitpod terminal to commit to Git, and push to github
 
@@ -149,7 +149,7 @@ The visitor draw of a hero image which situates them shoulder-to-shoulder with a
 
 * Balsamiq; used to create the wireframes during the design process
 
-* Canva; used to format and edit the website images
+
 
 ## Testing
 
@@ -189,7 +189,7 @@ Similarly,
 
 ### Testing User Stories from UX Section of ReadME
 
-#### First Time Visitor / Potential Volunteer
+#### First Time Visitor
 
 - As a first time visitor / potential volunteer, I want immediately to have a window or doorway on to the cause.
     * Home hero image opens on to hospital, and text + CTA position user as a potential life-saving hospital worker.
