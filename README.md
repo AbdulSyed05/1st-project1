@@ -61,10 +61,6 @@ This website is the starting point of a rebuild of that website, which is hosted
 
 ![Energie Fitness Original Home Page]
 
-The other website that was truly inspirational from amongst a huge group that I reviewed was [the RNLI website - December 2020 View](http://web.archive.org/web/20201220014805/https://rnli.org/)
-The visitor draw of a hero image which situates them shoulder-to-shoulder with a frontline worker really impressed me.
-
-
 #### Colour Scheme
 
 - The main colours used are shades of Black, yellow, grey and white as these are the brand colours of the Gym wesbite.
@@ -141,6 +137,7 @@ The visitor draw of a hero image which situates them shoulder-to-shoulder with a
 ### Validation
 * W3C HTML validation
 * W3C CSS validation
+(readme-images/cssvalidator.png)   
 
 The developer used W3C HTML validation and W3C CSS validation to help debug, and check the validity of the website's code.
 
