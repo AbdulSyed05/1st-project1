@@ -6,7 +6,7 @@ The Gym Website project is a responsive and user-friendly website designed for a
 
 
 
-**[View the live project here.](https://github.com/AbdulSyed05/1st-project1/tree/main)**
+**[View the live project here.]( https://abdulsyed05.github.io/1st-project1/)**
 
 ## Project Goals
 
