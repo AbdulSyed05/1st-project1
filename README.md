@@ -59,8 +59,6 @@ The Gym Website project is a responsive and user-friendly website designed for a
 The major design inspiration for this Gym website is from [Energie Fitness Franchise](https://energiefitness.com/)
 This website is the starting point of a rebuild of that website, which is hosted by an overseas 3rd party on WordPress.
 
-![Energie Fitness Original Home Page]
-
 #### Colour Scheme
 
 - The main colours used are shades of Black, yellow, grey and white as these are the brand colours of the Gym wesbite.
@@ -136,8 +134,15 @@ This website is the starting point of a rebuild of that website, which is hosted
 
 ### Validation
 * W3C HTML validation
+
+![Energy Fitness](readme-images/html-validator.png)
+
+
+
 * W3C CSS validation
-(readme-images/cssvalidator.png)   
+
+![Energy Fitness](readme-images/css-validator.png)
+ 
 
 The developer used W3C HTML validation and W3C CSS validation to help debug, and check the validity of the website's code.
 
