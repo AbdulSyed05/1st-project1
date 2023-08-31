@@ -56,10 +56,7 @@ The Gym Website project is a responsive and user-friendly website designed for a
 The major design inspiration for this Gym website is from [Energie Fitness Franchise](https://energiefitness.com/)
 This website is the starting point of a rebuild of that website, which is hosted by an overseas 3rd party on WordPress.
 
-![Energie Fitness Original Home Page]
 
-The other website that was truly inspirational from amongst a huge group that I reviewed was [the RNLI website - December 2020 View](http://web.archive.org/web/20201220014805/https://rnli.org/)
-The visitor draw of a hero image which situates them shoulder-to-shoulder with a frontline worker really impressed me.
 
 
 #### Colour Scheme
