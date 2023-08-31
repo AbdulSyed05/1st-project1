@@ -161,17 +161,6 @@ The developer used W3C HTML validation and W3C CSS validation to help debug, and
 
 This project was developed using GitPod, committed to Git and pushed to GitHub using the built-in function within GitPod
 
-### Deploy this project from its GitHub repository
-
-To deploy this project to GitHub Pages from its [GitHub repository](https://github.com/DaithiShan/milestoneproject1), the following steps were taken:
-
-1. Log into GitHub.
-2. From the list of repositories, select **DaithiShan/milestoneproject1**
-3. From the menu items near the top of the page, select **Settings**.
-4. Scroll down to **GitHub Pages** section.
-5. Under **Source** click the dropdown menu labelled **None** and select **Master Branch**
-6. On selecting Master Branch, the page is automatically refreshed. The website is now deployed.
-7. Scroll back down to **GitHub Pages** section to retrieve the link to the deployed website.
 
    #### Acknowledgements
 
